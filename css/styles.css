@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ee7778 !important;
+}
+
+.popup {
+  margin-top: 100px;
+  min-width: 600px;
+}
+
+.title {
+  margin: 30px 0;
+}
+
+.popup-input {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.popup-button {
+  margin-top: 20px;
+  padding: 5px 0;
+}
+
+.form-button {
+  margin-bottom: 50px;
+}
